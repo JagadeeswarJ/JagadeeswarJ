@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Jagadeeswar 👋
 
-<!--
-**JagadeeswarJ/JagadeeswarJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about software development and always eager to learn new technologies.
 
-Here are some ideas to get you started:
+## 🔭 What I'm currently working on
+- [VJDQ Website](https://github.com/vjdataquesters/Website): Enhancing the UI and ensuring timely updates for our department club's website.
+- [Blog App](https://github.com/JagadeeswarJ/vnrblogapp): Developing a MERN stack blog app with a focus on seamless user experience and robust backend functionality.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 What I'm currently learning
+- **TypeScript**: Embracing type safety in JavaScript.
+- **React**: Delving into advanced concepts such as hooks, context API, and performance optimization.
+- **GraphQL**: Crafting efficient and flexible APIs.
+- **Machine Learning**: Investigating Convolutional Neural Networks (CNNs) and other advanced techniques.
+
+## 📫 How to reach me
+- Email: [jagadeeswar079@gmail.com](mailto:jagadeeswar079@gmail.com)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/jagadeeswar-jonnadula-846546286/)
+
+
+## 📊 My GitHub Stats
+![JagadeeswarJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=JagadeeswarJ&show_icons=true&theme=radical)
+
+## 💼 Skills
+- 🌐 MERN Stack
+- 💻 C++
+- 🐍 Python
+
+## 🙌 Let's connect!
+Feel free to reach out if you want to collaborate on a project.
