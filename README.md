@@ -11,26 +11,9 @@ Welcome! I'm a BTech Data Science student who loves exploring how tech works and
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JagadeeswarJ&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 
-## 🔭 What I'm currently working on
-
-- [VJDQ Website](https://github.com/vjdataquesters/Website): Enhancing the UI and ensuring timely updates for our department club's website.
-- [Blog App](https://github.com/JagadeeswarJ/vnrblogapp): Developing a MERN stack blog app with a focus on seamless user experience and robust backend functionality.
-
 ## 📊 My GitHub Stats
 
 ![JagadeeswarJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=JagadeeswarJ&show_icons=true&theme=radical)
 ![ALT TEXT GOES HERE](https://views.gonzalohirsch.com/gh?user=JagadeeswarJ)
 
-## 🌱 What I'm currently learning
 
-- **TypeScript**: Embracing type safety in JavaScript.
-- **React**: Delving into advanced concepts such as hooks, context API, and performance optimization.
-- **GraphQL**: Crafting efficient and flexible APIs.
-- **Machine Learning**: Investigating Convolutional Neural Networks (CNNs) and other advanced techniques.
-
-## 🙌 Let's connect!
-
-**Feel free to reach out if you want to collaborate on a project.**
-
-- Email: [jagadeeswar079@gmail.com](mailto:jagadeeswar079@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/jagadeeswar-jonnadula-846546286/)
