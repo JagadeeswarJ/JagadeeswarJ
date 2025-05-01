@@ -1,14 +1,9 @@
 # 👋 Hi there, I'm Jagadeeswar
 
-🎓 I'm a BTech Data Science student with a passion for **tech exploration** and building **innovative projects**. Whether it's full-stack development or solving real-world problems with data.
-
----
 
 ## 🧠 About Me
 
-- 🔭 Currently working on: Web apps and API Integrations
-- 🌱 Learning: Advanced React, Typescript, GraphQL
-- 🛠️ Building: A collaborative coding/text editing platform using WebSockets
+Just a curious developer
 
 ---
 
