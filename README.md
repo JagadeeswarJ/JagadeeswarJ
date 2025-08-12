@@ -56,15 +56,6 @@ Just a curious developer
 
 ---
 
-## 🚀 Featured Projects
-
-| Project                                 | Description                                                                                                | Tech Stack                                                                         | Demo/Repo                                          |
-| --------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | -------------------------------------------------- |
-| **🚑 Ambulance Detection System**       | Detects ambulances in real-time video streams and changes traffic signals dynamically.                     | YOLOv5, OpenCV, Streamlit ,API                                                     | [Repo](https://github.com/JagadeeswarJ/VisionAPI)  |
-| **🎓 Student & Organizer Event Portal** | Campus event hub with personalized dashboards, real-time updates, gamification, and easy event management. | React.js, Node.js, Express, Firebase Firestore, Razorpay, TailwindCSS, Nodemailer. | [Website](https://univo-hazel.vercel.app/)         |
-| **📝 LiveCollab**                       | Collaborative coding and text editing platform with real-time sync using WebSockets.                       | Node.js, Express, Socket.io, HTML, CSS, JavaScript                                 | [Repo](https://github.com/JagadeeswarJ/websockets) |
-
----
 
 ## 📊 GitHub Stats
 
