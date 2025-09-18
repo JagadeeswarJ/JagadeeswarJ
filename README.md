@@ -64,10 +64,6 @@ Just a curious developer
 </a>
 </div>
 <div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 20px; padding: 20px; border-radius: 10px; background-color: #1e1e1e; border: 1px solid #333;">
-  <div style="display: flex; justify-content: space-around; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=JagadeeswarJ&show_icons=true&theme=radical" height="160" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JagadeeswarJ&layout=compact&theme=dracula" height="160" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);" />
-  </div>
   <br/>
   <img src="https://views.gonzalohirsch.com/gh?user=JagadeeswarJ" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);" />
 </div>
