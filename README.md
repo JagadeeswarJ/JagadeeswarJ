@@ -25,10 +25,9 @@
 ## 📊 GitHub Stats
 <div>
 <a href = "https://jagadeeswar.dev/">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JagadeeswarJ&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff">
-</a>
-</div>
-<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 20px; padding: 20px; border-radius: 10px; background-color: #1e1e1e; border: 1px solid #333;">
+
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JagadeeswarJ&bg_color=000000&color=ffffff&line=ffffff&area=true&area_color=404040&point=false&hide_border=true&radius=12" /><div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 20px; padding: 20px; border-radius: 10px; background-color: #1e1e1e; border: 1px solid #333;">
   <br/>
   <img src="https://views.gonzalohirsch.com/gh?user=JagadeeswarJ" style="border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);" />
 </div>
